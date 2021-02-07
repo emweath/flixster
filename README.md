@@ -11,7 +11,8 @@
 - [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 
 ### App Walkthrough GIF
-vMrSRsixBo.gif 1,438×812 pixels
+http://g.recordit.co/vMrSRsixBo.gif
+
 
 ### Notes
 Describe any challenges encountered while building the app.
